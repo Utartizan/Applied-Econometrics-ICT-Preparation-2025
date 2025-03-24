@@ -1,4 +1,7 @@
+![image](https://i.ibb.co/tPFYKy4R/images.jpg)
+
 # Econometrics ICT Preparation 2025
+
 
 This repository organises my preparation for the Econometrics ICT, focusing on panel data analysis, GARCH models, and statistical testing using UK Obesity and Unemployment Rates.
 
