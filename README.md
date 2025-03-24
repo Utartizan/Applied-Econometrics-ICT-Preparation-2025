@@ -12,8 +12,8 @@ To centralise code, data, notes, and practice for mastering Fixed Effects, GARCH
 
 - **Day 1: Setup and Resource Gathering**
   - [x] Create sub-folders for each topic in the repository (`/Fixed_Effects/`, `/GARCH/`, etc.).
-  - [ ] Gather relevant resources for each sub-folder from Brightspace (e.g., Artur Semeyutin’s example codes).
-  - [ ] Upload Artur’s example codes to the respective sub-folders (e.g., GARCH code in `/GARCH/`).
+  - [x] Gather relevant resources for each sub-folder from Brightspace (e.g., Artur Semeyutin’s example codes).
+  - [x] Upload Artur’s example codes to the respective sub-folders (e.g., GARCH code in `/GARCH/`).
   - [ ] Replicate Artur’s example codes in each sub-folder with my own versions.
   - [ ] Add consistent comments to my replicated code explaining each line for better understanding.
   - [ ] Include comments on potential outputs (e.g., coefficients, p-values) in the replicated code files.
