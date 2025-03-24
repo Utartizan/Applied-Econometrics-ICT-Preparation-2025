@@ -22,7 +22,7 @@ To centralise code, data, notes, and practice for mastering Fixed Effects, GARCH
   - [ ] Run the R code examples and save the outputs (e.g., tables, graphs) in the sub-folder.
   - [ ] Add comments under every output value (e.g., “p-value = 0.03 suggests significance at 5% level”).
   - [ ] Write a short summary in the sub-folder (e.g., `fixed_effects_notes.md`) on what the output values mean.
-  - [ ] Analyze implications of the outputs on trends/datasets (e.g., “Higher unemployment may correlate with obesity”).
+  - [ ] Analyse implications of the outputs on trends/datasets (e.g., “Higher unemployment may correlate with obesity”).
 
 - **Day 3: Deep Dive into Topics (Part 2)**
   - [ ] Continue with another topic sub-folder (e.g., `/GARCH/`).
@@ -31,7 +31,7 @@ To centralise code, data, notes, and practice for mastering Fixed Effects, GARCH
   - [ ] Run the R code examples and save the outputs (e.g., volatility plots) in the sub-folder.
   - [ ] Add comments under every output value (e.g., “α + β ≈ 1 indicates persistent volatility”).
   - [ ] Write a short summary in the sub-folder (e.g., `garch_notes.md`) on what the output values mean.
-  - [ ] Analyze implications of the outputs on trends/datasets (e.g., “Volatility clustering in unemployment rates”).
+  - [ ] Analyse implications of the outputs on trends/datasets (e.g., “Volatility clustering in unemployment rates”).
 
 - **Day 4: Deep Dive into Topics (Part 3)**
   - [ ] Aim to finish off all sub-folders by this day (e.g., `/VAR/`).
