@@ -15,12 +15,12 @@ To centralise code, data, notes, and practice for mastering Fixed Effects, GARCH
   - [x] Gather relevant resources for each sub-folder from Brightspace (e.g., Artur Semeyutin’s example codes).
   - [x] Upload Artur’s example codes to the respective sub-folders (e.g., GARCH code in `/GARCH/`).
   - [x] Replicate Artur’s example codes in each sub-folder with my own versions.
-  - [ ] Create word documents analysing each topic, including consistent comments to my replicated code explaining each line for better understanding.
-  - [ ] Include comments on potential outputs (e.g., coefficients, p-values) in the replicated code files.
+  - [x] Create word documents analysing each topic, including consistent comments to my replicated code explaining each line for better understanding.
+  - [x] Include comments on potential outputs (e.g., coefficients, p-values) in the replicated code files.
 
 - **Day 2: Deep Dive into Topics (Part 1)**
-  - [ ] Select another topic sub-folder to start with (e.g., `/Fixed_Effects/`).
-  - [ ] Create multiple R code examples for the selected topic (e.g., 3–5 Fixed Effects models).
+  - [x] Select another topic sub-folder to start with (e.g., `/Fixed_Effects/`).
+  - [x] Create multiple R code examples for the selected topic (e.g., 3–5 Fixed Effects models).
   - [ ] Comment every line of code in each example to explain its purpose.
   - [ ] Run the R code examples and save the outputs (e.g., tables, graphs) in the sub-folder.
   - [ ] Add comments under every output value (e.g., “p-value = 0.03 suggests significance at 5% level”).
