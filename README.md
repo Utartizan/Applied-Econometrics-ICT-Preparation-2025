@@ -21,16 +21,16 @@ To centralise code, data, notes, and practice for mastering Fixed Effects, GARCH
 - **Day 2: Deep Dive into Topics (Part 1)**
   - [x] Select another topic sub-folder to start with (e.g., `/Fixed_Effects/`).
   - [x] Create multiple R code examples for the selected topic (e.g., 3–5 Fixed Effects models).
-  - [ ] Comment every line of code in each example to explain its purpose.
-  - [ ] Run the R code examples and save the outputs (e.g., tables, graphs) in the sub-folder.
-  - [ ] Add comments under every output value (e.g., “p-value = 0.03 suggests significance at 5% level”).
-  - [ ] Write a short summary in the sub-folder (e.g., `fixed_effects_notes.md`) on what the output values mean.
-  - [ ] Analyse implications of the outputs on trends/datasets (e.g., “Higher unemployment may correlate with obesity”).
+  - [x] Comment every line of code in each example to explain its purpose.
+  - [x] Run the R code examples and save the outputs (e.g., tables, graphs) in the sub-folder.
+  - [x] Add comments under every output value (e.g., “p-value = 0.03 suggests significance at 5% level”).
+  - [x] Write a short summary in the sub-folder (e.g., `fixed_effects_notes.md`) on what the output values mean.
+  - [x] Analyse implications of the outputs on trends/datasets (e.g., “Higher unemployment may correlate with obesity”).
 
 - **Day 3: Deep Dive into Topics (Part 2)**
-  - [ ] Continue with another topic sub-folder (e.g., `/GARCH/`).
-  - [ ] Create multiple R code examples for the selected topic (e.g., 3–5 GARCH models).
-  - [ ] Comment every line of code in each example to explain its purpose.
+  - [x] Continue with another topic sub-folder (e.g., `/GARCH/`).
+  - [x] Create multiple R code examples for the selected topic (e.g., 3–5 GARCH models).
+  - [x] Comment every line of code in each example to explain its purpose.
   - [ ] Run the R code examples and save the outputs (e.g., volatility plots) in the sub-folder.
   - [ ] Add comments under every output value (e.g., “α + β ≈ 1 indicates persistent volatility”).
   - [ ] Write a short summary in the sub-folder (e.g., `garch_notes.md`) on what the output values mean.
@@ -58,8 +58,8 @@ To centralise code, data, notes, and practice for mastering Fixed Effects, GARCH
   - [ ] Document key insights from the simulations in a summary file (e.g., `ict_simulation_insights.md` in `/Practice/`).
 
 ## Progress
-- [ ] Complete Day 1 tasks
-- [ ] Complete Day 2 tasks
+- [x] Complete Day 1 tasks
+- [x] Complete Day 2 tasks
 - [ ] Complete Day 3 tasks
 - [ ] Complete Day 4 tasks
 - [ ] Complete Day 5 tasks
