@@ -58,8 +58,8 @@ To centralise code, data, notes, and practice for mastering Fixed Effects, GARCH
   - [ ] Document key insights from the simulations in a summary file (e.g., `ict_simulation_insights.md` in `/Practice/`).
 
 ## Progress
-- [ ] Complete Day 1 tasks
-- [ ] Complete Day 2 tasks
+- [x] Complete Day 1 tasks
+- [x] Complete Day 2 tasks
 - [ ] Complete Day 3 tasks
 - [ ] Complete Day 4 tasks
 - [ ] Complete Day 5 tasks
