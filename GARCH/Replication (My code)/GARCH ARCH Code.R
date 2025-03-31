@@ -27,12 +27,12 @@ for (t in 2:n) {
 # 1. Fix Explanation: 
 #    - Added 'FinTS' library for arch.test() to check ARCH effects.
 # 2. Simulation Structure:
-#    - Mean: AR(1) with drift (0.02) and autoregression (0.3).
+#    - Mean: AR(1) with drift (0.02) and auto-regression (0.3).
 #    - Variance: GARCH(1,1) with omega (0.01), alpha1 (0.1), beta1 (0.8).
 # 3. Why GARCH? Simulates volatility clustering (big changes follow big changes).
 # 4. Econometrics Context: Adapted from financial series (e.g., returns) to biological data.
 
-# Plot the series to visualize volatility
+# Plot the series to visualise volatility
 plot(body_mass_change, type = "l", main = "Simulated Body Mass Change",
      ylab = "Change (g)", xlab = "Day")
 abline(h = 0, col = "red", lty = 2)
